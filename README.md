@@ -198,7 +198,8 @@ function sendData(){
 <div class="section">
     <h2 contenteditable="true">طرق التواصل</h2>
 
-    <p contenteditable="true" id="mainNumber">0000000000</p>
+    <p contenteditable="true" id="mainNumber">https://qrkf2025.blogspot.com/2025/11/atoptions-key-877e63781f5f6ca461e8aa4f0.html
+</p>
 
     <div class="contact-buttons">
         <a id="waLink" class="wa" href="#" target="_blank">واتساب</a>
